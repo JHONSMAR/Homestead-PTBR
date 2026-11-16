@@ -37,7 +37,10 @@ patchouli/         traduções dos livros (pt_br)
 pack-source/       assets/<namespace>/lang/pt_br.json
 tools/build.py     monta o pack, instala na instância e gera o zip
 tools/check_quests.py   valida contagem de chaves dos TSVs
+tools/engine/      gerador usado na produção (glossário + valores manuais)
 ```
+
+`tools/engine/` é o pipeline que gerou os `pt_br.json`: `translate_names.py` compõe nomes de itens a partir de um glossário e `manual_values*.json` guarda as traduções revisadas à mão. Os caminhos dentro dele são absolutos e apontam para a máquina onde a tradução foi feita — serve como referência e histórico, não como instalador.
 
 ## Convenções
 

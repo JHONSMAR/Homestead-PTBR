@@ -1,0 +1,32 @@
+{
+  "name": "O Despertar da Automação",
+  "icon": "create:mechanical_bearing",
+  "category": "patchouli:basics",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Bem-vindo, Engenheiro",
+      "text": "Então... você construiu sua primeira fazenda automatizada de plantações, foi? Já provou o poder do movimento. Já viu suas plantações se colherem sozinhas. E agora você quer mais. Ótimo."
+    },
+    {
+      "type": "text",
+      "title": "A Estrutura de uma Máquina",
+      "text": "$(br)Toda engenhoca começa com duas coisas... $(#f00)$(l)Energia $() e $(#f00)$(l)Propósito. $()A automação é um ciclo: $(#b182e5)$(l)Energia,  $(#e5e582)Movimento,  $(#e58282)Ação,  $(#82d7e5)Resultado."
+    },
+    {
+      "type": "text",
+      "title": "Dicas de Fazenda",
+      "text": "$(li)Use $(#FFAA00)$(l)Funís de Latão $()para filtrar o que sai.$(li)Empilhe $(#7BC35C)$(l)Mancais   $()para fazer fazendas grandes.$(li)Use $(#AAAAAA)$(l)Mecânicos   $()para replantar sementes e automatizar de verdade."
+    },
+    {
+      "type": "text",
+      "title": "O Que Tentar Depois",
+      "text": "$(br)Experimente $(#c6c6c6)$(l)Misturadores Mecânicos,  $(#ff9c00)Fabricadores,   $()e $(#ed83ff)$(l)Montagem Sequencial   $()para automações mais complexas. Sim... algum dia... até $(#83b1ff)$(l)Trens."
+    },
+    {
+      "type": "text",
+      "title": "Palavras Finais",
+      "text": "$(br)Suas máquinas vão ficar mais complexas. Suas engrenagens vão girar mais rápido. Mas não esqueça sua primeira colheita. Que seus eixos nunca quebrem e que suas esteiras nunca parem de girar. $(l)- 2013 T.M. Gearsprocket"
+    }
+  ]
+}

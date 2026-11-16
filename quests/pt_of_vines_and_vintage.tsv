@@ -1,0 +1,80 @@
+ftbquests.chapter.of_vines_and_vintage.quest.792750222BE484C5.desc.0	O mundo cultiva frutas deliciosas prontas para virar vinhos ainda mais deliciosos! Com variantes brancas e tintas, existem muitos tipos, então não deixe de explorar.
+ftbquests.chapter.of_vines_and_vintage.quest.792750222BE484C5.desc.1	&nColete sementes de uva dos arbustos de uva selvagem.&r
+ftbquests.chapter.of_vines_and_vintage.quest.792750222BE484C5.subtitle	Obtenha qualquer semente de uva
+ftbquests.chapter.of_vines_and_vintage.quest.792750222BE484C5.task.ftbfiltersystem:smart_filter.title	Qualquer #vinery:grape_seeds
+ftbquests.chapter.of_vines_and_vintage.quest.792750222BE484C5.title	Frutos da Videira
+ftbquests.chapter.of_vines_and_vintage.quest.247A014E4F1A0053.desc.0	Vinho não sai só de uva! Essas árvores são nativas de biomas temperados, como Planícies, Prados e Planícies de Girassóis.
+ftbquests.chapter.of_vines_and_vintage.quest.247A014E4F1A0053.subtitle	Obtenha uma Muda de Macieira e uma Muda de Cerejeira Escura.
+ftbquests.chapter.of_vines_and_vintage.quest.247A014E4F1A0053.title	Frutos nos Galhos
+ftbquests.chapter.of_vines_and_vintage.quest.3830DF8ED871BDBB.desc.0	Arbustos de uva plantados no chão ou na parede rendem pouco. Para melhorar a colheita, plante as sementes nos caules; clique na metade de cima do caule para plantar. As Uvas da Selva exigem treliças.
+ftbquests.chapter.of_vines_and_vintage.quest.3830DF8ED871BDBB.subtitle	Crie um Grape Vine Stem e qualquer Lattice [versão Vinery]
+ftbquests.chapter.of_vines_and_vintage.quest.3830DF8ED871BDBB.task.4E9800B44518B36D.title	Qualquer #vinery:lattice
+ftbquests.chapter.of_vines_and_vintage.quest.3830DF8ED871BDBB.title	Sonhos de Vinhedo
+ftbquests.chapter.of_vines_and_vintage.quest.799FB5B2C65338F6.desc.0	Seu vinhedo está tomando forma e você já pode começar a fazer vinhos. Hora de criar as ferramentas necessárias.
+ftbquests.chapter.of_vines_and_vintage.quest.799FB5B2C65338F6.subtitle	Crie um Grape Vine Pot, um Fermentation Barrel, uma Apple Press e uma Wine Bottle.
+ftbquests.chapter.of_vines_and_vintage.quest.799FB5B2C65338F6.title	O Kit do Vinicultor
+ftbquests.chapter.of_vines_and_vintage.quest.279E357E54A5304A.desc.0	Não dá para fazer vinho sem amassar algumas uvas!
+ftbquests.chapter.of_vines_and_vintage.quest.279E357E54A5304A.desc.1	&nPule em cima do Grape Vine Pot algumas vezes e mostre a essas uvas quem manda. Para maçãs, tanto o purê quanto o suco podem ser feitos na prensa.&r
+ftbquests.chapter.of_vines_and_vintage.quest.279E357E54A5304A.desc.2	&nUsando um Grape Vine Pot ou uma Apple Press, uvas e uma Wine Bottle vazia você cria sua primeira garrafa de Suco.&r
+ftbquests.chapter.of_vines_and_vintage.quest.279E357E54A5304A.subtitle	Faça qualquer garrafa de suco
+ftbquests.chapter.of_vines_and_vintage.quest.279E357E54A5304A.task.ftbfiltersystem:smart_filter.title	Qualquer #vinery:grapejuice
+ftbquests.chapter.of_vines_and_vintage.quest.279E357E54A5304A.title	Suco Turbulento
+ftbquests.chapter.of_vines_and_vintage.quest.76DE9808E8F6C9DD.desc.0	Hora de engarrafar seu primeiro vinho!
+ftbquests.chapter.of_vines_and_vintage.quest.76DE9808E8F6C9DD.desc.1	&nCada vinho tem um bônus único que fica mais forte com o tempo, conforme o vinho envelhece. Basta guardar em qualquer inventário e, com tempo e paciência, seu vinho fica mais potente.&r
+ftbquests.chapter.of_vines_and_vintage.quest.76DE9808E8F6C9DD.desc.2	&nUsando um Fermentation Barrel, adicione o suco necessário, os ingredientes extras e as garrafas de vinho para criar seu primeiro vinho.&r
+ftbquests.chapter.of_vines_and_vintage.quest.76DE9808E8F6C9DD.subtitle	Crie Red Wine e Apple Wine
+ftbquests.chapter.of_vines_and_vintage.quest.76DE9808E8F6C9DD.title	A Primeira Gota
+ftbquests.chapter.of_vines_and_vintage.quest.6AA58533D5EBBC8F.desc.0	Feito num barril de fermentação com Suco de Maçã, uma Garrafa de Mel e Açúcar.
+ftbquests.chapter.of_vines_and_vintage.quest.6AA58533D5EBBC8F.subtitle	Crie Hidromel
+ftbquests.chapter.of_vines_and_vintage.quest.6AA58533D5EBBC8F.title	Hidromel
+ftbquests.chapter.of_vines_and_vintage.quest.68888EB3FFD9D8CD.desc.0	Feito num barril de fermentação com Suco de Maçã e Açúcar.
+ftbquests.chapter.of_vines_and_vintage.quest.68888EB3FFD9D8CD.subtitle	Crie Sidra
+ftbquests.chapter.of_vines_and_vintage.quest.4E2A9F993EE146E5.desc.0	Feito num barril de fermentação com Suco de Maçã e uma garrafa de Suco de Maçã.
+ftbquests.chapter.of_vines_and_vintage.quest.4E2A9F993EE146E5.subtitle	Crie Apple Wine
+ftbquests.chapter.of_vines_and_vintage.quest.34365CC7B4787A01.desc.0	Feito num barril de fermentação com Suco de Uva Branca, Açúcar e Pó de Pedra Luminosa.
+ftbquests.chapter.of_vines_and_vintage.quest.34365CC7B4787A01.subtitle	Crie Mellohi Wine
+ftbquests.chapter.of_vines_and_vintage.quest.58FDCEECECD2956E.desc.0	Feito num barril de fermentação com Suco de Uva Branca e Frutinhas Brilhantes.
+ftbquests.chapter.of_vines_and_vintage.quest.58FDCEECECD2956E.subtitle	Crie Sun-kissed Wine
+ftbquests.chapter.of_vines_and_vintage.quest.5641322F44A45A4F.desc.0	Feito num barril de fermentação com Suco de Uva Branca, Frutinhas Doces e uma Garrafa de Mel.
+ftbquests.chapter.of_vines_and_vintage.quest.5641322F44A45A4F.subtitle	Crie Solaris Wine
+ftbquests.chapter.of_vines_and_vintage.quest.402F635659D5C6EC.desc.0	Feito num barril de fermentação com Suco de Uva Tinta e frutinhas doces.
+ftbquests.chapter.of_vines_and_vintage.quest.402F635659D5C6EC.subtitle	Crie Noir Wine
+ftbquests.chapter.of_vines_and_vintage.quest.6F6F2DE7EAA17121.desc.0	Feito num barril de fermentação com Suco de Uva Tinta e Açúcar.
+ftbquests.chapter.of_vines_and_vintage.quest.6F6F2DE7EAA17121.subtitle	Crie Red Wine
+ftbquests.chapter.of_vines_and_vintage.quest.3E661A25570C9575.desc.0	Feito num barril de fermentação com Suco de Uva Tinta, Sementes de Cacau e Açúcar.
+ftbquests.chapter.of_vines_and_vintage.quest.3E661A25570C9575.subtitle	Crie Strad Wine
+ftbquests.chapter.of_vines_and_vintage.quest.504425E4B36F0B5D.desc.0	Feito num barril de fermentação com Suco de Uva Tinta e uma Cereja [só Vinery].
+ftbquests.chapter.of_vines_and_vintage.quest.504425E4B36F0B5D.subtitle	Crie Cherry Wine
+ftbquests.chapter.of_vines_and_vintage.quest.26454470A143B50F.desc.0	Feito num barril de fermentação com Suco de Uva Tinta, uma Pena, Açúcar e uma Vara de Blaze.
+ftbquests.chapter.of_vines_and_vintage.quest.26454470A143B50F.subtitle	Crie Cristel Wine
+ftbquests.chapter.of_vines_and_vintage.quest.5C243B5EC5C727F4.desc.0	Feito num barril de fermentação com Suco de Uva Branca da Savana e Pólvora.
+ftbquests.chapter.of_vines_and_vintage.quest.5C243B5EC5C727F4.subtitle	Crie uma Garrafa de 'Creepers Crush'
+ftbquests.chapter.of_vines_and_vintage.quest.440321CDEAEBC8FA.desc.0	Feito num barril de fermentação com Suco de Uva Branca da Savana e Alga.
+ftbquests.chapter.of_vines_and_vintage.quest.440321CDEAEBC8FA.subtitle	Crie Sidra de Alga
+ftbquests.chapter.of_vines_and_vintage.quest.24E655E4159BA436.desc.0	Feito num barril de fermentação com Suco de Uva Tinta da Savana, uma Garrafa de Mel e uma Cereja [só Vinery].
+ftbquests.chapter.of_vines_and_vintage.quest.24E655E4159BA436.subtitle	Crie Miss Lilitus Wine
+ftbquests.chapter.of_vines_and_vintage.quest.0459F25E61041E88.desc.0	Feito num barril de fermentação com Suco de Uva Tinta da Savana e um Olho de Aranha Fermentado.
+ftbquests.chapter.of_vines_and_vintage.quest.0459F25E61041E88.subtitle	Crie a Mistura Especial da Jo
+ftbquests.chapter.of_vines_and_vintage.quest.3BF03B8F70BECA9E.desc.0	Feito num barril de fermentação com Suco de Uva Branca da Taiga e uma Bola de Neve.
+ftbquests.chapter.of_vines_and_vintage.quest.3BF03B8F70BECA9E.subtitle	Crie Eiswein
+ftbquests.chapter.of_vines_and_vintage.quest.4671CB330F71F3D3.desc.0	Feito num barril de fermentação com Suco de Uva Branca da Taiga, Açúcar, Alga e uma Barra de Ferro.
+ftbquests.chapter.of_vines_and_vintage.quest.4671CB330F71F3D3.subtitle	Crie Aegis Wine
+ftbquests.chapter.of_vines_and_vintage.quest.415F587BB329B198.desc.0	Feito num barril de fermentação com Suco de Uva Tinta da Taiga, uma Garrafa de Mel e uma Cereja [só Vinery].
+ftbquests.chapter.of_vines_and_vintage.quest.415F587BB329B198.subtitle	Crie Bolvar Wine
+ftbquests.chapter.of_vines_and_vintage.quest.30A9ADE340B1CEC9.desc.0	Feito num barril de fermentação com Suco de Uva Tinta da Taiga e Fruta do Coro.
+ftbquests.chapter.of_vines_and_vintage.quest.30A9ADE340B1CEC9.subtitle	Crie Chorus Wine
+ftbquests.chapter.of_vines_and_vintage.quest.14DAD6C9B4A6FFA8.desc.0	Feito num barril de fermentação com Suco de Uva Branca da Selva e uma Flecha.
+ftbquests.chapter.of_vines_and_vintage.quest.14DAD6C9B4A6FFA8.subtitle	Crie uma Garrafa de 'Villagers Fright'
+ftbquests.chapter.of_vines_and_vintage.quest.626244F6ED274CB2.desc.0	Feito num barril de fermentação com Suco de Uva Branca da Selva e Açúcar.
+ftbquests.chapter.of_vines_and_vintage.quest.626244F6ED274CB2.subtitle	Crie Clark Wine
+ftbquests.chapter.of_vines_and_vintage.quest.7E3127065BDF8CD6.desc.0	Feito num barril de fermentação com Suco de Uva Tinta da Selva e uma Barra de Ferro.
+ftbquests.chapter.of_vines_and_vintage.quest.7E3127065BDF8CD6.subtitle	Crie Magnetic Wine
+ftbquests.chapter.of_vines_and_vintage.quest.4BD0216F7EAD3EE3.desc.0	Feito num barril de fermentação com Suco de Uva Tinta da Selva, Sementes de Cacau e Açúcar.
+ftbquests.chapter.of_vines_and_vintage.quest.4BD0216F7EAD3EE3.subtitle	Crie Stal Wine
+ftbquests.chapter.of_vines_and_vintage.quest.571018D6EF18CBA4.desc.0	Feito num barril de fermentação com Suco de Uva Tinta da Selva, um Olho de Aranha e uma Garrafa de Mel.
+ftbquests.chapter.of_vines_and_vintage.quest.571018D6EF18CBA4.subtitle	Crie Chenet Wine
+ftbquests.chapter.of_vines_and_vintage.quest.723A18B372853BB6.desc.0	Feito num barril de fermentação com Suco de Uva Tinta, uma Garrafa de Mel, uma Cereja [só na versão Vinery] e uma garrafa de Red Wine.
+ftbquests.chapter.of_vines_and_vintage.quest.723A18B372853BB6.subtitle	Crie uma Garrafa de 'Mojang Noir'
+ftbquests.chapter.of_vines_and_vintage.quest.79011AE021672451.desc.0	Feito num barril de fermentação com Suco de Uva Branca, uma garrafa de Apple Wine, Chenet Wine e Bolvar Wine.
+ftbquests.chapter.of_vines_and_vintage.quest.79011AE021672451.subtitle	Crie Jellie Wine
+ftbquests.chapter.of_vines_and_vintage.title	Videiras e Vinho

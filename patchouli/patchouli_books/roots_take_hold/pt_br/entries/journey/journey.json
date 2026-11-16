@@ -1,0 +1,103 @@
+{
+  "name": "Criando Raízes",
+  "icon": "minecraft:flower_pot",
+  "category": "patchouli:journey",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Primeiro Dia Aqui",
+      "text": "Cheguei nesta floresta há pouco tempo e não consigo parar de admirar essa paisagem linda. A única coisa que escuto é o som do vento e da madeira estalando. Me sinto sozinho. Espero encontrar outra pessoa logo."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/roots/of_soil_and_sky.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "O Primeiro Teto",
+      "text": "$(br)Não vou sobreviver muito mais sem abrigo. Fiz uma barraca básica com umas tábuas, terra batida no chão e uma fogueira no meio. Nada chique, mas dá pro gasto."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/roots/the_shape_of_shelter.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "O Que as Folhas Fazem",
+      "text": "$(br)Se você for bom observador, dá pra ler as árvores com facilidade. As folhas mudam de cor com as estações. Ficaram num dourado lindo por uma semana no outono. Estou tentando anotar e estudar esse comportamento."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/roots/the_language_of_leaves.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "A Pedra Entalhada",
+      "text": "$(br)Achei uma pedra estranha voltando pra casa. Tem algum tipo de glifo gravado nela. Encontrei mais duas depois e todas estavam entre as raízes das árvores. Alguém esteve aqui antes... Espero que nada de ruim aconteça."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/roots/underfoot_unseen.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "Mãos Roxas",
+      "text": "$(br)Me sinto um druida vivendo assim. Minhas roupas e mãos estão todas roxas de tanto comer frutinhas. Catando maçã das árvores e cogumelo dos troncos mortos."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/roots/harvests_small_and_sweet.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "Mãos Doloridas",
+      "text": "$(br)Ando numa rotina. Acordar, cortar lenha, aventurar nas minas, colher comida, dormir. Minhas mãos estão todas doloridas e machucadas, mas durmo melhor do que nunca. Me impede de pensar demais."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/roots/hands_in_harmony.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "O Escuro",
+      "text": "$(br)No começo eu morria de medo da noite. Sempre deixava a porta bloqueada e dormia segurando uma espada. Já me acostumei. Ficar no escuro completo, só com o som da natureza, é até calmante."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/roots/nights_that_hold_you.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "Ainda Cavando",
+      "text": "$(br)Não consigo tirar essas pedras entalhadas da cabeça. É como se estivessem enraizadas no meu cérebro, esperando ser descobertas e decifradas por mim, como se estivessem me chamando. Não sei o que está acontecendo aqui, mas é bem profundo. Se você está lendo isso, não tem mais volta. Você também criou raízes aqui."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/roots/pages_yet_to_grow.png"
+      ],
+      "border": true
+    }
+  ]
+}

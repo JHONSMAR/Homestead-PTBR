@@ -1,0 +1,42 @@
+{
+  "name": "Plantas & Construções",
+  "icon": "create:crafting_blueprint",
+  "category": "patchouli:basics",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Sobre Estas Plantas",
+      "text": "$(br)Estas são páginas copiadas dos cadernos de anotações de T.M. Gearsprocket — diagramas simples de máquinas pequenas, com explicações aconchegantes. Não estão em escala. Não seguem norma técnica. Mas giram muito bem."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["homestead:textures/farm_diagram.png"],
+      "title": "Diagrama de Fazenda",
+      "text": "Uma fazenda giratória simples usando colheitadeiras e um mancal mecânico."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["homestead:textures/millstone_diagram.png"],
+      "title": "Mó Vertical",
+      "text": "Uma roda d'água ligada verticalmente a um mó. Boa para moer trigo, sementes ou blocos de osso. Coloque um duto ou funil embaixo para pegar a farinha."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["homestead:textures/press_diagram.png"],
+      "title": "Prensa Básica",
+      "text": "Jogue os lingotes no depósito. Ligue a prensa por trás ou por cima. Bata até virar chapa. Muito satisfatório. Não fique embaixo da prensa."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["homestead:textures/power_diagram.png"],
+      "title": "Exemplo de Transmissão",
+      "text": "Usando engrenagens e uma caixa de transmissão para levar rotação em duas direções. Útil quando você precisa de uma máquina girando para um lado e outra para o outro."
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["homestead:textures/chute_diagram.png"],
+      "title": "Corrente de Duto e Funil",
+      "text": "Jogue itens automaticamente por um duto até um caixote, baú ou barril. Bom para separar itens ou soltar em intervalos."
+    }
+  ]
+}

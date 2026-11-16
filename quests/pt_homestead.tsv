@@ -1,0 +1,177 @@
+ftbquests.chapter.homestead.quest.1CDC7463A908FC2B.desc.0	O que tem dentro do CozyStudios Core?
+ftbquests.chapter.homestead.quest.1CDC7463A908FC2B.desc.1	O CozyStudios Core é o mod de base feito pela equipe CozyCord que move o Homestead. A ideia é ser amigável ao vanilla, leve e configurável, adicionando conteúdo aconchegante sem transformar seu mundo em algo irreconhecível.
+ftbquests.chapter.homestead.quest.1CDC7463A908FC2B.desc.2	&lMobs personalizados&r – Fernlings, Mushlings e o Mystical Elk, todos domesticáveis e criáveis, com várias variantes de bioma.
+ftbquests.chapter.homestead.quest.1CDC7463A908FC2B.desc.3	&lItens e blocos práticos&r – Tranquil Lanterns, a Kiln, a Arborist Table, Golden Leaves e mais.
+ftbquests.chapter.homestead.quest.1CDC7463A908FC2B.desc.4	&lNovidades para aldeões&r – Uma nova profissão, Arborist, e um leque maior de trocas de Pedreiro.
+ftbquests.chapter.homestead.quest.1CDC7463A908FC2B.desc.5	&lQualidade de vida&r – Recolorir camas e estandartes, fome no Pacífico, pilhas maiores e drops de mobs craftáveis.
+ftbquests.chapter.homestead.quest.1CDC7463A908FC2B.desc.6	Quase tudo aqui pode ser ajustado ou desligado na config.
+ftbquests.chapter.homestead.quest.1CDC7463A908FC2B.task.5DC5561350C7C74F.title	CozyStudios Core
+ftbquests.chapter.homestead.quest.1CDC7463A908FC2B.title	Mod CozyStudios Core
+ftbquests.chapter.homestead.quest.2BCDA4053CC2E1C2.desc.0	&lFernling&r
+ftbquests.chapter.homestead.quest.2BCDA4053CC2E1C2.desc.1	Espiritinhos pacíficos que ajudam suas plantações a florescer.
+ftbquests.chapter.homestead.quest.2BCDA4053CC2E1C2.desc.2	&l- Aparece em:&r Florestas, Desertos, Badlands, Taigas, Biomas Glaciais, Biomas Nevados, Pântanos
+ftbquests.chapter.homestead.quest.2BCDA4053CC2E1C2.desc.3	&l- Variantes:&r Normal, Cacto, Gelo, Pântano
+ftbquests.chapter.homestead.quest.2BCDA4053CC2E1C2.desc.4	&l- Domestique e crie com:&r Cozy Crumbs
+ftbquests.chapter.homestead.quest.2BCDA4053CC2E1C2.desc.5	&l- Comportamento:&r
+ftbquests.chapter.homestead.quest.2BCDA4053CC2E1C2.desc.6	• Pode ser domesticado e mandado sentar
+ftbquests.chapter.homestead.quest.2BCDA4053CC2E1C2.desc.7	• Chance aleatória a cada poucos minutos de usar farinha de osso no chão ao seu redor
+ftbquests.chapter.homestead.quest.2BCDA4053CC2E1C2.desc.8	• Raio, recarga e chance da farinha de osso são todos configuráveis
+ftbquests.chapter.homestead.quest.2BCDA4053CC2E1C2.desc.9	• Pode ser criado com Cozy Crumbs
+ftbquests.chapter.homestead.quest.2BCDA4053CC2E1C2.task.0A7CD97BE2A34270.title	Fernling
+ftbquests.chapter.homestead.quest.2BCDA4053CC2E1C2.title	Fernling
+ftbquests.chapter.homestead.quest.5F2322737928E530.desc.0	&lMushling&r
+ftbquests.chapter.homestead.quest.5F2322737928E530.desc.1	Cogumelinhos que iluminam seu caminho à noite.
+ftbquests.chapter.homestead.quest.5F2322737928E530.desc.2	&l- Aparece em:&r Floresta, Floresta Negra, Prado, Ilha de Cogumelos, Biomas Nevados e Glaciais, Floresta Carmesim, Floresta Distorcida, Cavernas Viçosas
+ftbquests.chapter.homestead.quest.5F2322737928E530.desc.3	&l- Variantes:&r Normal, Gelo, Carmesim, Distorcida, Viçosa
+ftbquests.chapter.homestead.quest.5F2322737928E530.desc.4	&l- Domestique e crie com:&r Cozy Crumbs
+ftbquests.chapter.homestead.quest.5F2322737928E530.desc.5	&l- Comportamento:&r
+ftbquests.chapter.homestead.quest.5F2322737928E530.desc.6	• Pode ser domesticado e mandado sentar
+ftbquests.chapter.homestead.quest.5F2322737928E530.desc.7	• Emite luz à noite e funciona como uma tocha ambulante enquanto te segue
+ftbquests.chapter.homestead.quest.5F2322737928E530.desc.8	• Pode ser criado com Cozy Crumbs
+ftbquests.chapter.homestead.quest.5F2322737928E530.task.17BBD5696F6A6285.title	Mushling
+ftbquests.chapter.homestead.quest.5F2322737928E530.title	Mushling
+ftbquests.chapter.homestead.quest.21207E6BAB7F1709.desc.0	&lMystical Elk&r
+ftbquests.chapter.homestead.quest.21207E6BAB7F1709.desc.1	Montarias majestosas das matas profundas.
+ftbquests.chapter.homestead.quest.21207E6BAB7F1709.desc.2	&l- Aparece em:&r Floresta Negra
+ftbquests.chapter.homestead.quest.21207E6BAB7F1709.desc.3	&l- Domestique e crie com:&r Mystical Berries, compradas do Mystical Trader
+ftbquests.chapter.homestead.quest.21207E6BAB7F1709.desc.4	&l- Comportamento:&r
+ftbquests.chapter.homestead.quest.21207E6BAB7F1709.desc.5	• Montável como um cavalo quando recebe sela
+ftbquests.chapter.homestead.quest.21207E6BAB7F1709.desc.6	• Velocidade e salto são aleatórios por alce, então vale caçar um bom resultado
+ftbquests.chapter.homestead.quest.21207E6BAB7F1709.desc.7	• Pode ser criado com Mystical Berries
+ftbquests.chapter.homestead.quest.21207E6BAB7F1709.task.248383DC264EDED3.title	Mystical Elk
+ftbquests.chapter.homestead.quest.21207E6BAB7F1709.title	Mystical Elk
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.0	&lTranquil Lanterns&r
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.1	Blocos protetores que criam uma zona segura ao redor de si. Afastam mobs hostis e impedem que eles apareçam, e vêm em quatro níveis.
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.2	&lNíveis e Raio&r
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.3	• Tranquil Lantern – 13 blocos (até 26)
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.4	• Golden Tranquil Lantern – 25 blocos (até 50)
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.5	• Diamond Tranquil Lantern – 50 blocos (até 100)
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.6	• Netherite Tranquil Lantern – 100 blocos (até 200)
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.7	O raio pode ser aumentado em até 100% na config, na categoria Tranquil Lanterns.
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.8	&lAfastando Mobs&r
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.9	• Mobs hostis dentro do raio são empurrados para fora do centro
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.10	• Qualquer coisa que fique dentro por 3 segundos morre
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.11	• Phantoms morrem no instante em que entram
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.12	&lBloqueio de Spawn&r
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.13	• Mobs hostis não podem nascer dentro do raio
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.14	• Funciona em todas as dimensões
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.15	&lVendo o Raio&r
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.16	Aperte &lR&r estando dentro do alcance de uma lanterna para iluminar a área protegida. O atalho fica em "Cozy Studios Core" nos seus controles.
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.17	&lConfig&r
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.18	• Aumento de Raio – 0 a 100% em cima do raio base
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.19	• Empurrão – empurra os mobs para a borda externa (ligado por padrão)
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.desc.20	• Queimar – incendeia os mobs em vez de empurrá-los (desligado por padrão)
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.task.22CE6CFB85253FA0.title	Tranquil Lanterns
+ftbquests.chapter.homestead.quest.5A7C3559138DBF0D.title	Tranquil Lanterns
+ftbquests.chapter.homestead.quest.6F4EF0B0B761A69F.desc.0	&lMelhorando sua Lanterna&r
+ftbquests.chapter.homestead.quest.6F4EF0B0B761A69F.desc.1	Cada nível usa o nível anterior, então você melhora a mesma lanterna subindo a corrente.
+ftbquests.chapter.homestead.quest.6F4EF0B0B761A69F.desc.2	&lTranquil Lantern&r
+ftbquests.chapter.homestead.quest.6F4EF0B0B761A69F.desc.3	8x Lantern ao redor de 1x Golden Leaf
+ftbquests.chapter.homestead.quest.6F4EF0B0B761A69F.desc.4	&lGolden Tranquil Lantern&r
+ftbquests.chapter.homestead.quest.6F4EF0B0B761A69F.desc.5	8x Bloco de Ouro ao redor de 1x Tranquil Lantern
+ftbquests.chapter.homestead.quest.6F4EF0B0B761A69F.desc.6	&lDiamond Tranquil Lantern&r
+ftbquests.chapter.homestead.quest.6F4EF0B0B761A69F.desc.7	8x Bloco de Diamante ao redor de 1x Golden Tranquil Lantern
+ftbquests.chapter.homestead.quest.6F4EF0B0B761A69F.desc.8	&lNetherite Tranquil Lantern&r
+ftbquests.chapter.homestead.quest.6F4EF0B0B761A69F.desc.9	8x Barra de Netherita ao redor de 1x Diamond Tranquil Lantern
+ftbquests.chapter.homestead.quest.6F4EF0B0B761A69F.desc.10	&lDicas&r
+ftbquests.chapter.homestead.quest.6F4EF0B0B761A69F.desc.11	• As lanternas podem se sobrepor, então use algumas para cobrir bases grandes ou de formato esquisito
+ftbquests.chapter.homestead.quest.6F4EF0B0B761A69F.desc.12	• As posições são salvas e sincronizadas com todo mundo, então é seguro em servidores
+ftbquests.chapter.homestead.quest.6F4EF0B0B761A69F.task.4AFA766A9E0299C3.title	Melhorias de Lanterna
+ftbquests.chapter.homestead.quest.6F4EF0B0B761A69F.title	Melhorias de Lanterna
+ftbquests.chapter.homestead.quest.41210CFB89986F2E.desc.0	&lGolden Leaf&r
+ftbquests.chapter.homestead.quest.41210CFB89986F2E.desc.1	&lRegeneração Passiva&r
+ftbquests.chapter.homestead.quest.41210CFB89986F2E.desc.2	Mantenha uma no inventário para uma regeneração de vida lenta e infinita.
+ftbquests.chapter.homestead.quest.41210CFB89986F2E.desc.3	&lCura de Emergência (3 Cargas)&r
+ftbquests.chapter.homestead.quest.41210CFB89986F2E.desc.4	Clique com o direito para comê-la e ganhar o efeito de Maçã Dourada. Três usos antes de sumir.
+ftbquests.chapter.homestead.quest.41210CFB89986F2E.desc.5	&lIngrediente de Criação&r
+ftbquests.chapter.homestead.quest.41210CFB89986F2E.desc.6	Necessária para a Tranquil Lantern básica.
+ftbquests.chapter.homestead.quest.41210CFB89986F2E.task.1D3EEF5EB344305E.title	Golden Leaf
+ftbquests.chapter.homestead.quest.41210CFB89986F2E.title	Golden Leaf
+ftbquests.chapter.homestead.quest.2689B2FD34CD485B.desc.0	&lCozy Crumbs&r
+ftbquests.chapter.homestead.quest.2689B2FD34CD485B.desc.1	&lComo Fazer:&r
+ftbquests.chapter.homestead.quest.2689B2FD34CD485B.desc.2	• 1 Garrafa de Mel
+ftbquests.chapter.homestead.quest.2689B2FD34CD485B.desc.3	• 1 Trigo
+ftbquests.chapter.homestead.quest.2689B2FD34CD485B.desc.4	• 1 Cogumelo Vermelho
+ftbquests.chapter.homestead.quest.2689B2FD34CD485B.desc.5	&lUsado para Domesticar e Criar:&r
+ftbquests.chapter.homestead.quest.2689B2FD34CD485B.desc.6	• Fernlings
+ftbquests.chapter.homestead.quest.2689B2FD34CD485B.desc.7	• Mushlings
+ftbquests.chapter.homestead.quest.2689B2FD34CD485B.task.3AB82C6C8469DE23.title	Cozy Crumbs
+ftbquests.chapter.homestead.quest.2689B2FD34CD485B.title	Cozy Crumbs
+ftbquests.chapter.homestead.quest.1ACC45C47D38E290.desc.0	&lMystical Berries&r
+ftbquests.chapter.homestead.quest.1ACC45C47D38E290.desc.1	Vendidas pelo Mystical Trader.
+ftbquests.chapter.homestead.quest.1ACC45C47D38E290.desc.2	Usadas para domesticar e criar o Mystical Elk.
+ftbquests.chapter.homestead.quest.1ACC45C47D38E290.task.7BC98EA5841F2917.title	Mystical Berries
+ftbquests.chapter.homestead.quest.1ACC45C47D38E290.title	Mystical Berries
+ftbquests.chapter.homestead.quest.77969411A3DD58F4.desc.0	&lKiln&r
+ftbquests.chapter.homestead.quest.77969411A3DD58F4.desc.1	Uma fornalha feita para construtores.
+ftbquests.chapter.homestead.quest.77969411A3DD58F4.desc.2	• Funde blocos de construção como pedra, tijolos, terracota e argila &l2x mais rápido&r
+ftbquests.chapter.homestead.quest.77969411A3DD58F4.desc.3	• Resseca concreto molhado de volta para pó de concreto
+ftbquests.chapter.homestead.quest.77969411A3DD58F4.desc.4	• Tempo de cozimento e XP são configuráveis
+ftbquests.chapter.homestead.quest.77969411A3DD58F4.desc.5	• Compatível com datapack, então você pode adicionar suas próprias receitas pela config
+ftbquests.chapter.homestead.quest.77969411A3DD58F4.task.74D1CE81AF7F43F8.title	Kiln
+ftbquests.chapter.homestead.quest.77969411A3DD58F4.title	Kiln
+ftbquests.chapter.homestead.quest.622E4538A5D3ED41.desc.0	&lArborist Table&r
+ftbquests.chapter.homestead.quest.622E4538A5D3ED41.desc.1	O bloco de trabalho da nova profissão de aldeão, o Arborist.
+ftbquests.chapter.homestead.quest.622E4538A5D3ED41.desc.2	&lReceita:&r 1 Barril cercado por qualquer tipo de Muda.
+ftbquests.chapter.homestead.quest.622E4538A5D3ED41.desc.3	Coloque perto de um aldeão desempregado e ele assume a profissão.
+ftbquests.chapter.homestead.quest.622E4538A5D3ED41.task.584DBEC70C290A7E.title	Arborist Table
+ftbquests.chapter.homestead.quest.622E4538A5D3ED41.title	Arborist Table
+ftbquests.chapter.homestead.quest.2AD4CB838A218966.desc.0	&lJungle Horn&r
+ftbquests.chapter.homestead.quest.2AD4CB838A218966.desc.1	Uma nova variante de chifre de cabra, encontrada em Templos da Selva.
+ftbquests.chapter.homestead.quest.2AD4CB838A218966.task.6028E06E99B90645.title	Jungle Horn
+ftbquests.chapter.homestead.quest.2AD4CB838A218966.title	Jungle Horn
+ftbquests.chapter.homestead.quest.6B57189BB08BD02F.desc.0	&lDiscos de Música Personalizados&r
+ftbquests.chapter.homestead.quest.6B57189BB08BD02F.desc.1	Faixas originais do CozyStudios para encontrar e tocar no mundo.
+ftbquests.chapter.homestead.quest.6B57189BB08BD02F.desc.2	• &lAT Original Soundtrack&r – composta por Tokimi
+ftbquests.chapter.homestead.quest.6B57189BB08BD02F.desc.3	• &lDayspring&r – composta por Duskfox
+ftbquests.chapter.homestead.quest.6B57189BB08BD02F.desc.4	• &lHomeward&r - composta por Tokimi e storm8976
+ftbquests.chapter.homestead.quest.6B57189BB08BD02F.desc.5	• &lWindswept&r - composta por Tokimi e storm8976
+ftbquests.chapter.homestead.quest.6B57189BB08BD02F.desc.6	• Mais a caminho
+ftbquests.chapter.homestead.quest.6B57189BB08BD02F.task.2529F38360EF4849.title	Discos de Música
+ftbquests.chapter.homestead.quest.6B57189BB08BD02F.title	Discos de Música Personalizados
+ftbquests.chapter.homestead.quest.00E6CF51542EA9B3.desc.0	&lSistema de Recolorir&r
+ftbquests.chapter.homestead.quest.00E6CF51542EA9B3.desc.1	Recolora camas, lã e estandartes em vez de fazer novos.
+ftbquests.chapter.homestead.quest.00E6CF51542EA9B3.desc.2	• Na bancada de trabalho, combine o item com qualquer corante
+ftbquests.chapter.homestead.quest.00E6CF51542EA9B3.desc.3	• No mundo, clique com o direito numa cama, bloco de lã ou estandarte colocados, usando corante
+ftbquests.chapter.homestead.quest.00E6CF51542EA9B3.desc.4	• Totalmente alternável na config
+ftbquests.chapter.homestead.quest.00E6CF51542EA9B3.task.05D31C78955F9EE2.title	Sistema de Recolorir
+ftbquests.chapter.homestead.quest.00E6CF51542EA9B3.title	Sistema de Recolorir
+ftbquests.chapter.homestead.quest.5993EEFDF7255443.desc.0	&lDrops de Mobs no Pacífico&r
+ftbquests.chapter.homestead.quest.5993EEFDF7255443.desc.1	Receitas para itens que normalmente só caem de mobs hostis, para quem joga no Pacífico não ficar de fora.
+ftbquests.chapter.homestead.quest.5993EEFDF7255443.desc.2	&lComida&r
+ftbquests.chapter.homestead.quest.5993EEFDF7255443.desc.3	Carne Bovina, Frango, Costeleta de Porco, Carneiro, Coelho, Bacalhau, Salmão, Peixe Tropical
+ftbquests.chapter.homestead.quest.5993EEFDF7255443.desc.4	&lCombate&r
+ftbquests.chapter.homestead.quest.5993EEFDF7255443.desc.5	Vara de Blaze, Pérola do End, Lágrima de Ghast, Tridente
+ftbquests.chapter.homestead.quest.5993EEFDF7255443.desc.6	&lMateriais&r
+ftbquests.chapter.homestead.quest.5993EEFDF7255443.desc.7	Osso, Pólvora, Bola de Slime, Olho de Aranha, Bolsa de Tinta, Fragmentos e Cristais de Prismarinho, Casco de Shulker, Pena
+ftbquests.chapter.homestead.quest.5993EEFDF7255443.desc.8	&lDecoração&r
+ftbquests.chapter.homestead.quest.5993EEFDF7255443.desc.9	Toda cabeça de mob, incluindo Esqueleto, Zumbi, Creeper, Esqueleto Wither e Dragão, além de Esponja
+ftbquests.chapter.homestead.quest.5993EEFDF7255443.desc.10	&lRaro&r
+ftbquests.chapter.homestead.quest.5993EEFDF7255443.desc.11	Ovo de Dragão, Estrela do Nether
+ftbquests.chapter.homestead.quest.5993EEFDF7255443.desc.12	As receitas usam ingredientes cultiváveis ou renováveis sempre que possível.
+ftbquests.chapter.homestead.quest.5993EEFDF7255443.task.13010538754F9010.title	Drops de Mobs no Pacífico
+ftbquests.chapter.homestead.quest.5993EEFDF7255443.title	Drops de Mobs no Pacífico
+ftbquests.chapter.homestead.quest.0965147CF9660EAE.desc.0	&lExpansão das Trocas de Pedreiro&r
+ftbquests.chapter.homestead.quest.0965147CF9660EAE.desc.1	Materiais de construção úteis adicionados ao leque de trocas do Pedreiro.
+ftbquests.chapter.homestead.quest.0965147CF9660EAE.desc.2	• &lNovato&r – Lama Compactada
+ftbquests.chapter.homestead.quest.0965147CF9660EAE.desc.3	• &lAprendiz&r – Tijolos, Tijolos de Lama
+ftbquests.chapter.homestead.quest.0965147CF9660EAE.desc.4	• &lOficial&r – Tufo, Terracota
+ftbquests.chapter.homestead.quest.0965147CF9660EAE.desc.5	• &lMestre&r – Calcita
+ftbquests.chapter.homestead.quest.0965147CF9660EAE.desc.6	Os pedreiros sorteiam várias opções por nível, então essas são escolhidas aleatoriamente. Alternável na config.
+ftbquests.chapter.homestead.quest.0965147CF9660EAE.task.39FFD7B471067526.title	Trocas de Pedreiro
+ftbquests.chapter.homestead.quest.0965147CF9660EAE.title	Trocas de Pedreiro
+ftbquests.chapter.homestead.quest.1CC19419460E2364.desc.0	&lAjustes de Qualidade de Vida&r
+ftbquests.chapter.homestead.quest.1CC19419460E2364.desc.1	&lFome no Pacífico&r
+ftbquests.chapter.homestead.quest.1CC19419460E2364.desc.2	A fome funciona no modo Pacífico agora. Pode ser desligado na config.
+ftbquests.chapter.homestead.quest.1CC19419460E2364.desc.3	&lAjustes de Tamanho de Pilha&r
+ftbquests.chapter.homestead.quest.1CC19419460E2364.desc.4	Itens que normalmente param em 16 empilham até 64. Configurável entre 16 e 64.
+ftbquests.chapter.homestead.quest.1CC19419460E2364.desc.5	&lReceitas Extras&r
+ftbquests.chapter.homestead.quest.1CC19419460E2364.desc.6	Algumas adições práticas como Rebolo virando Cascalho, além de receitas de Sela, Etiqueta e Armadura de Cavalo.
+ftbquests.chapter.homestead.quest.1CC19419460E2364.task.5298D8091A8286A8.title	Qualidade de Vida
+ftbquests.chapter.homestead.quest.1CC19419460E2364.title	Qualidade de Vida
+ftbquests.chapter.homestead.quest.2580765255D3562F.desc.0	&lOpções de Config&r
+ftbquests.chapter.homestead.quest.2580765255D3562F.desc.1	Quase tudo no CozyStudios Core pode ser ajustado: comportamento de mobs, funções de blocos, trocas de aldeões, receitas, regras de recolorir, tamanhos de pilha e raio das lanternas.
+ftbquests.chapter.homestead.quest.2580765255D3562F.desc.2	Configure para um mundo singleplayer tranquilo ou para um servidor mais apertado e equilibrado.
+ftbquests.chapter.homestead.quest.2580765255D3562F.task.051B916CEE81D9FC.title	Opções de Config
+ftbquests.chapter.homestead.quest.2580765255D3562F.title	Opções de Config
+ftbquests.chapter.homestead.title	Dicas do Mod CozyStudios Core

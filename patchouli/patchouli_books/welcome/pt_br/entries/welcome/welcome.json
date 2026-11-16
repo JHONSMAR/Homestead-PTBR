@@ -1,0 +1,40 @@
+{
+  "name": "Bem-vindo ao Homestead",
+  "icon": "cozystudioscore:golden_leaf",
+  "category": "patchouli:welcome",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Feito com Carinho",
+      "text": "$(br)Homestead é um modpack montado à mão pelo Tokimi e pela equipe do CozyStudios. Levou mais de 6 meses, centenas de horas e xícaras de café demais."
+    },
+    {
+      "type": "text",
+      "title": "O Coração do Pack",
+      "text": "$(br)Homestead é um modpack Vanilla Plus. Ainda parece Minecraft, mas com vários biomas, criaturas, blocos e pequenas melhorias de qualidade de vida. Construa, explore, plante, junte coisas — o que você quiser."
+    },
+    {
+      "type": "text",
+      "title": "Um Guia Pelo Silêncio",
+      "text": "$(br)O livro de quests é seu guia principal. Siga na ordem ou pule partes, você decide. Ele apresenta os mods, mostra o que vale sua atenção e dá recompensas pelo caminho. Também responde a maioria das dúvidas, então olhe ali primeiro!"
+    },
+    {
+      "type": "text",
+      "title": "Não Pule as Dicas",
+      "text": "$(br)Dê uma olhada no capítulo Dicas, no livro de quests. Ele cobre funções dos mods que não são óbvias, teclas que você provavelmente não conhece e atalhos que economizam tempo. Vale a rolagem mesmo se você já joga há tempo."
+    },
+    {
+      "type": "text",
+      "title": "Aproveite a Jornada",
+      "text": "$(br)É isso. Divirta-se, quebre coisas, apareça no Discord se encontrar algo estranho ou quiser mostrar uma construção. Ficamos felizes que você esteja aqui."
+    },
+    {
+      "type": "image",
+      "images": [
+        "homestead:textures/welcome/logo.png"
+      ],
+      "border": true,
+      "text": "$(br)Valeu demais a Meleon, Army, Lyn, Yuki, Nylon, Alexelle, Gonzo, Cobra, Mama, Bloxcrew, Snowy, Wist, Xod e Navinor pelos testes em alfa e beta."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "A Virada (Lore)",
+  "icon": "create:cogwheel",
+  "category": "patchouli:basics",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Primeira Volta",
+      "text": "Muito antes do vapor sibilar ou das engrenagens estalarem, o mundo girava em silêncio. Então veio a Grande Virada — uma época em que algo lá no fundo da terra começou a girar. O chão gemeu. Os rios correram mais rápido. E com eles, veio o movimento. Ninguém sabe o que começou tudo isso. Alguns dizem que foi uma semente de latão puro plantada pelo primeiro sonhador. Outros dizem que foi uma máquina esquecida acordando."
+    },
+    {
+      "type": "text",
+      "title": "Os Primeiros Engenheiros",
+      "text": "$(br)Os primeiros a entender a Virada não foram reis nem guerreiros — foram inventores. Fazendeiros que colavam alavancas em carrinhos. Pastores que montavam moinhos para moer trigo. Seus descendentes são os engenheiros de hoje: humildes, espertos, curiosos. Esculpindo máquinas não para conquistar, mas para viver melhor."
+    },
+    {
+      "type": "text",
+      "title": "Um Poder Gentil",
+      "text": "$(br)Aqui, nesta terra moldada por musgo e movimento, o poder não é barulhento. É silencioso. Ele zumbia por vigas de carvalho e eixos de pedra, pelas gotas de chuva nas rodas d'água e pelo estalo suave das engrenagens sob a luz das estrelas. Neste mundo, o progresso sussurra em vez de rugir."
+    },
+    {
+      "type": "text",
+      "title": "T.M. Gearsprocket",
+      "text": "$(br)Entre os primeiros engenheiros havia uma alma gentil chamada T.M. Gearsprocket. Um pensador que bebia chá, com as mangas manchadas de óleo, Gearsprocket acreditava que máquinas deviam trazer conforto, não império. Seus diários, cheios de diagramas e rabiscos, viraram a base da engenharia aconchegante que conhecemos hoje."
+    },
+    {
+      "type": "text",
+      "title": "Os Diários",
+      "text": "$(br)Espalhados pela terra, dizem que os diários de Gearsprocket contêm não só instruções, mas reflexões — sobre por que o vento gira, como a luz cai sobre o latão e o que significa construir algo com cuidado. Algumas páginas estão manchadas de geleia. Outras, de fuligem. Todas são tesouros."
+    },
+    {
+      "type": "text",
+      "title": "O Grande Moinho Girante",
+      "text": "$(br)Dizem que no centro da floresta antiga, escondido sob hera e cogumelos, existe um Moinho Girante tão grande que um dia girou um vale inteiro. Ninguém lembra o que ele alimentava. Alguns dizem que alimentava sonhos. Outros dizem que ele só girava, porque podia."
+    },
+    {
+      "type": "text",
+      "title": "O Povo das Engrenagens",
+      "text": "$(br)Nos cantos quietos do mundo, alguns juram ter conhecido o Povo das Engrenagens — criaturinhas de cobre e curiosidade. Não são máquinas, nem bem gente. Consertam esteiras quebradas, assobiam nas chaminés e desaparecem se você agradecer. Gearsprocket jurava que eles o ajudaram a construir seu primeiro mancal."
+    },
+    {
+      "type": "text",
+      "title": "Sobre a Super Cola",
+      "text": "$(br)T.M. Gearsprocket escreveu uma vez: 'A Super Cola é menos um adesivo e mais uma promessa. A promessa de que um bloco sempre ficará com outro, não importa o quanto girem.' Essa anotação vinha acompanhada de um desenho de duas ovelhas amarradas a uma plataforma giratória. Estava etiquetado: 'NÃO REPETIR'."
+    },
+    {
+      "type": "text",
+      "title": "Por Que Construímos",
+      "text": "$(br)Nós não construímos para dominar. Construímos para fazer chá sem precisar levantar. Construímos para que o trigo se colha sozinho e nossas costas não doam. Construímos para ouvir o zumbido quieto do propósito na névoa da manhã. Isso basta. Isso é tudo."
+    },
+    {
+      "type": "text",
+      "title": "Na Virada",
+      "text": "$(br)Construir é lembrar. Girar a engrenagem é honrar a Virada. E enquanto houver mãos para colocar um eixo e corações para se perguntar por que ele gira, o mundo nunca vai ficar de fato parado."
+    }
+  ]
+}

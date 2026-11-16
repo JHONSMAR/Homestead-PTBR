@@ -1,0 +1,19 @@
+ftbquests.chapter.signals_in_the_stillness.quest.1FA32046C76E1A9F.desc.0	&4&lRedstone Sem Fio&r&r permite transmitir sinais de redstone &nsem fios&r usando um sistema de &lTransmissores&r, &lReceptores&r e ferramentas como &lControles&r e &lRastreadores&r. Todas essas ferramentas usam um componente comum: o &lCircuito&r. Você vai precisar de alguns deles pela jornada.
+ftbquests.chapter.signals_in_the_stillness.quest.1FA32046C76E1A9F.subtitle	Complete para começar a explorar o mod Redstone Sem Fio.
+ftbquests.chapter.signals_in_the_stillness.quest.1FA32046C76E1A9F.task.23AB2E9A1C831AB3.title	Sussurros do Sinal
+ftbquests.chapter.signals_in_the_stillness.quest.3AA72919D6430202.desc.0	O Transmissor de Redstone envia energia de redstone sem fio para um Receptor de Redstone na mesma frequência. Você pode alimentá-lo com qualquer entrada de redstone normal (tocha, bloco, alavanca etc.). Clique com o direito para mudar a frequência. Vários sistemas podem funcionar em paralelo, em canais diferentes.
+ftbquests.chapter.signals_in_the_stillness.quest.3AA72919D6430202.subtitle	Crie um Transmissor de Redstone.
+ftbquests.chapter.signals_in_the_stillness.quest.3AA72919D6430202.title	Envie o Sinal
+ftbquests.chapter.signals_in_the_stillness.quest.14CC3C18F57BD06A.desc.0	O Receptor de Redstone recebe energia de qualquer Transmissor de Redstone na mesma frequência. Clique com o direito para mudar a frequência. Iguale à frequência de um Transmissor para fechar um circuito sem fio.
+ftbquests.chapter.signals_in_the_stillness.quest.14CC3C18F57BD06A.subtitle	Crie um Receptor de Redstone.
+ftbquests.chapter.signals_in_the_stillness.quest.14CC3C18F57BD06A.title	Capture o Sinal
+ftbquests.chapter.signals_in_the_stillness.quest.085C6F73E84613BF.desc.0	O Rastreador de Frequência ajuda a localizar o Transmissor ligado a uma frequência específica. Shift + clique direito para definir a frequência. Depois clique com o direito para destacar o transmissor correspondente em vermelho vivo por 10 segundos — mesmo através de blocos e a qualquer distância. Ele também manda as coordenadas do bloco no chat.
+ftbquests.chapter.signals_in_the_stillness.quest.085C6F73E84613BF.subtitle	Crie um Rastreador de Frequência.
+ftbquests.chapter.signals_in_the_stillness.quest.085C6F73E84613BF.title	Encontre a Fonte
+ftbquests.chapter.signals_in_the_stillness.quest.44C805C63ECF871F.desc.0	O Controle alimenta manualmente um Transmissor de Redstone. Shift + clique direito para definir a frequência. Depois clique com o direito para ativar o transmissor naquela frequência enquanto mantiver o clique. Perfeito para ligar e desligar aparelhos de longe.
+ftbquests.chapter.signals_in_the_stillness.quest.44C805C63ECF871F.subtitle	Crie um Controle.
+ftbquests.chapter.signals_in_the_stillness.quest.44C805C63ECF871F.title	Controle Remoto
+ftbquests.chapter.signals_in_the_stillness.quest.4CD3CDE44A8E3EBB.desc.0	A Ferramenta de Frequência copia e cola frequências entre transmissores e receptores. Shift + clique direito para definir uma frequência. Clique com o direito para aplicá-la a um bloco. Para copiar a frequência de um bloco, shift + clique direito nele com a ferramenta e depois clique com o direito em outro para colar.
+ftbquests.chapter.signals_in_the_stillness.quest.4CD3CDE44A8E3EBB.subtitle	Crie uma Ferramenta de Frequência.
+ftbquests.chapter.signals_in_the_stillness.quest.4CD3CDE44A8E3EBB.title	Gerenciador de Canais
+ftbquests.chapter.signals_in_the_stillness.title	Sinais no Silêncio
